@@ -4,7 +4,7 @@
 <p align="center">An AntiVirus Tester written in pure <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank">Batch</a>.</p>
     <p align="center">
 <p align="center">  
-  <a href="https://github.com/DarioGAMER64/EICAR-AntiVirus-Test/releases" target="_blank"><img src="https://img.shields.io/badge/release-v1.10-brightgreen" alt="Latest release version" /></a>
+  <a href="https://github.com/DarioGAMER64/EICAR-AntiVirus-Test/releases" target="_blank"><img src="https://img.shields.io/badge/release-v1.20-brightgreen" alt="Latest release version" /></a>
   <a href="https://raw.githubusercontent.com/DarioGAMER64/EICAR-AntiVirus-Test/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-GPL--3.0-orange" alt="License" /></a>
   </p>
   
